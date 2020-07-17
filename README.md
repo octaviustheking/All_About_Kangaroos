@@ -15,8 +15,8 @@
     <p>Jump to sections: 
         <a href="#locomotion">Locomotion</a>,
         <a href="#diet">Diet</a>,
-        <a href="#Terminology">Terminology</a>
-        <a href="#Taxonomy and description">Taxonomy and Description</a>
+        <a href="#Terminology">Terminology</a>,
+        <a href="#Taxonomy and description">Taxonomy and Description</a>,
         <a href="#Comparison with wallabies">Comparison with Wallabies</a>
         
     </p>
@@ -56,7 +56,7 @@ The middle to late bulungmayines, Ganguroo and Wanburoo lacked digit 1 of the hi
 The first kangaroo to be exhibited in the Western world was an example shot by John Gore, an officer on Captain Cook's ship, the HMS Endeavour, in 1770. The animal was shot and its skin and skull transported back to England whereupon it was stuffed (by taxidermists who had never seen the animal before) and displayed to the general public as a curiosity. The first glimpse of a kangaroo for many 18th-century Britons was a painting by George Stubbs.
     
     </p>
-    <h4id="Comparison with wallabies">Comparison with Wallabies</h4>
+    <h4 id="Comparison with wallabies">Comparison with Wallabies</h4>
     <p>
     Kangaroos and wallabies belong to the same taxonomic family (Macropodidae) and often the same genera, but kangaroos are specifically categorised into the six largest species of the family. The term wallaby is an informal designation generally used for any macropod that is smaller than a kangaroo or wallaroo that has not been designated otherwise.
     </p>
