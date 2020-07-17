@@ -14,7 +14,7 @@
     
     <p>Jump to sections: 
         <a href="#locomotion">Locomotion</a>,
-        <a href="#diet">Diet</a>
+        <a href="#diet">Diet</a>,
         <a href="#Terminology">Terminology</a>
         
     </p>
