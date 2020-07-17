@@ -1,9 +1,9 @@
-# All About Kangaroos
+# All About Kangaroos!
 <!DOCTYPE html>
 <html>
     <head>
         <meta charset="utf-8">
-        <title>All About Kangaroos</title>
+        <title>All About Kangaroos!</title>
         <style>
             font-family: cursive;
         </style>
@@ -12,12 +12,12 @@
 
     <h1 id="kangaroos">Kangaroos</h1>
     
-    <p>Jump to sections: 
-        <a href="#locomotion">Locomotion</a>,
-        <a href="#diet">Diet</a>,
+    <p>Jump to sections:
         <a href="#Terminology">Terminology</a>,
         <a href="#Taxonomy and description">Taxonomy and Description</a>,
-        <a href="#Comparison with wallabies">Comparison with Wallabies</a>
+        <a href="#Comparison with wallabies">Comparison with Wallabies</a>,
+        <a href="#locomotion">Locomotion</a>,
+        <a href="#diet">Diet</a>
         
     </p>
     <p>The <strong>kangaroo</strong> is a marsupial from the family Macropodidae (macropods, meaning 'large foot'). In common use the term is used to describe the largest species from this family, especially those of the genus Macropus, red kangaroo, antilopine kangaroo, eastern grey kangaroo and western grey kangaroo. Kangaroos are endemic to Australia, and one genus, the tree-kangaroo, is also found in Papua New Guinea.</p>
