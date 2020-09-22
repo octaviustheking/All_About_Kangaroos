@@ -1,5 +1,5 @@
 # All About Kangaroos!
-<!DOCTYPE html>
+
 <html>
     <head>
         <meta charset="utf-8">
